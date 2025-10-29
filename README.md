@@ -10,4 +10,4 @@ getExpertiseOverview: return this README
 
 # Contents
 Core Teaching Framework
-moves/10 Key Teaching Moves.md — foundational teaching moves SKIBIDI
+brainrot/curriculum.md — foundational SKIBIDI teaching moves 
